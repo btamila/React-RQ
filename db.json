@@ -1,0 +1,46 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Test1"
+    },
+    {
+      "id": 2,
+      "name": "Test2"
+    },
+    {
+      "id": 3,
+      "name": "Test3"
+    },
+    {
+      "id": 4,
+      "name": "Test4"
+    },
+    {
+      "id": 5,
+      "name": "Test5 -new"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Frnd - Test1"
+    },
+    {
+      "id": 2,
+      "name": "Frnd - Test2"
+    },
+    {
+      "id": 3,
+      "name": "Frnd - Test3"
+    },
+    {
+      "id": 4,
+      "name": "Frnd - Test4"
+    },
+    {
+      "id": 5,
+      "name": "Frnd - Test5"
+    }
+  ]
+}
